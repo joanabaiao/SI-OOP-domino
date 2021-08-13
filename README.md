@@ -1,4 +1,4 @@
-# SI - Domino 
+# SI - Domino game
 
 Simple implementation of the Domino game using OOP for the Computer Systems class. Allows a human player to enter his name and play against 3 robots.
 
